@@ -1,0 +1,2 @@
+# Description
+This is a repo to illustrate how to use mock to do unittests.  If you're unittesting things that touch outside service (such as a database), then you will want to mock the client that talks to the database.
